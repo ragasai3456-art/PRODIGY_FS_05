@@ -13,3 +13,11 @@ A full-stack social media application where users can create accounts, share pos
 - Database: MongoDB  
 - Authentication: JWT  
 ## 📂 Project Structure
+social-app/
+│
+├── models/
+├── routes/
+├── middleware/
+├── public/
+├── server.js
+├── package.json
